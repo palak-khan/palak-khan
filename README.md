@@ -1,4 +1,4 @@
-👋 Welcome to my profile! I'm Palak, a versatile professional:
+👋 Welcome to my profile! I'm Palak:
 
 📚 AI & Machine Learning Student
 
