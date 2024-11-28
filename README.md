@@ -2,7 +2,7 @@
 
 **I’m Palak Khan**, an enthusiastic and dedicated:  
 
-- 📚 **AI & Machine Learning Student** (B.Tech, SIRT, AI/ML Major)  
+- 📚 **AI & Machine Learning Student** (B.Tech, AI/ML Major)  
 - 🌐 **Full Stack Web Developer** (MERN & Tailwind CSS)  
 - 💼 **Freelancer**  
 - 💡 **Problem Solver & Competitive Coder**  
