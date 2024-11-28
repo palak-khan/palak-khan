@@ -1,15 +1,35 @@
-👋 Welcome to my profile! I'm Palak:
+<div align="center">
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/welcome-header.gif" alt="Welcome to my GitHub Profile" width="600" />
+</div>
 
-📚 AI & Machine Learning Student
+---
 
-🌐 Full Stack Web Developer
 
-💼 Freelancer
+**I’m Palak Khan**, an enthusiastic and dedicated:  
 
-💡 Problem Solver
+- 📚 **AI & Machine Learning Student** (B.Tech, SIRT, AI/ML Major)  
+- 🌐 **Full Stack Web Developer** (MERN & Tailwind CSS)  
+- 💼 **Freelancer**  
+- 💡 **Problem Solver & Competitive Coder**  
 
-🐍 Python & DSA Learner
+### Skills & Interests:  
+🐍 **Python & DSA** | 💻 **JavaScript (ES6+)** | 🌟 **React, Node.js, MongoDB**  
 
-🔗 CodeChef: [https://www.codechef.com/users/palakkhan2002]
+---
 
-Feel free to connect via email at "palakkhan2002@gmail.com." Let's collaborate and create something amazing! 😊🚀
+### 🏆 Achievements:  
+- **Diamond Badge** on CodeChef – [See Profile](https://www.codechef.com/users/palakkhan2002)  
+
+---
+
+### 📫 Let’s Connect!  
+
+- 📩 **Email:** palakkhan2002@gmail.com  
+- 🔗 **CodeChef:** [palakkhan2002](https://www.codechef.com/users/palakkhan2002)  
+
+---
+
+<div align="center">
+  <h3>Let’s collaborate and build something amazing! 😊🚀</h3>
+</div>
+
