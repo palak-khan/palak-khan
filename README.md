@@ -1,9 +1,4 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/welcome-header.gif" alt="Welcome to my GitHub Profile" width="600" />
-</div>
-
----
-
+### 👋 Welcome to My GitHub Profile!  
 
 **I’m Palak Khan**, an enthusiastic and dedicated:  
 
@@ -32,4 +27,3 @@
 <div align="center">
   <h3>Let’s collaborate and build something amazing! 😊🚀</h3>
 </div>
-
