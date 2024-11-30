@@ -8,7 +8,7 @@
 - 💡 **Problem Solver & Competitive Coder**  
 
 ### Skills & Interests:  
-🐍 **Python & DSA** | 💻 **JavaScript (ES6+)** | 🌟 **React, Node.js, MongoDB**  
+🐍 **Python & DSA** | 💻 **JavaScript (ES6+), TypeScript** | 🌟 **Next.js, React, Node.js, MongoDB**  
 
 ---
 
