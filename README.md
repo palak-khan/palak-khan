@@ -20,7 +20,7 @@
 ### 📫 Let’s Connect!  
 
 - 📩 **Email:** palakkhan2002@gmail.com  
-- 🔗 **CodeChef:** [palakkhan2002](https://www.codechef.com/users/palakkhan2002)  
+- 🔗 **Linkedin:** [palak-khan](https://www.linkedin.com/in/palak-khan-84516627a/)  
 
 ---
 
