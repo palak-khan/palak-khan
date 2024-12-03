@@ -13,7 +13,7 @@
 ---
 
 ### 🏆 Achievements:  
-- **Diamond Badge** on CodeChef – [See Profile](https://www.codechef.com/users/palakkhan2002)  
+- **Diamond Badge** on CodeChef   
 
 ---
 
