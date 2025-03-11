@@ -1,20 +1,8 @@
 ### 👋 Welcome to My GitHub Profile!  
 
-**I’m Palak Khan**, an enthusiastic and dedicated:  
-
-- 📚 **AI & Machine Learning Student** (B.Tech, AI/ML Major)  
-- 🌐 **Full Stack Web Developer** (MERN & Tailwind CSS)  
-- 💼 **Freelancer**  
-- 💡 **Problem Solver & Competitive Coder**  
-
-### Skills & Interests:  
-🐍 **Python & DSA** | 💻 **JavaScript (ES6+), TypeScript** | 🌟 **Next.js, React, Node.js, MongoDB**  
-
----
-
-### 🏆 Achievements:  
-- **Diamond Badge** on CodeChef   
-
+**I’m Palak Khan**, 
+I am actively seeking opportunities as a backend developer to utilize and enhance my skills in the MERN stack and system design. 
+With a passion for building scalable, efficient, and robust backend solutions, I am always eager to tackle new challenges. 
 ---
 
 ### 📫 Let’s Connect!  
