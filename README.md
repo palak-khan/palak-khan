@@ -1,12 +1,3 @@
-### 👋 Welcome to My GitHub Profile!  
-
-**I’m Palak Khan**, 
-I am actively seeking opportunities as a backend developer to utilize and 
-enhance my skills in the MERN stack and system design. 
-With a passion for building scalable, efficient, and 
-robust backend solutions, I am always eager to tackle new challenges. 
-
----
 
 ### 📫 Let’s Connect!  
 
