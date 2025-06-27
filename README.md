@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
-
 <h1 align="center">Hi 👋 I'm Palak Khan</h1>
 
 <p align="center">
@@ -52,6 +48,7 @@
 ## 🐍 Contribution Snake Animation
 
 ![Snake animation](https://github.com/palak-khan/palak-khan/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
