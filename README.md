@@ -16,13 +16,10 @@
 
 ---
 
-## 📊 GitHub Stats
-
+# 📊 GitHub Stats:More actions
 ![](https://github-readme-stats.vercel.app/api?username=palak-khan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=palak-khan&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=palak-khan&theme=tokyonight&hide_border=false&layout=compact)
-
----
+![](https://nirzak-streak-stats.vercel.app/?user=palak-khan&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=palak-khan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 
