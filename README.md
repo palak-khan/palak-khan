@@ -39,6 +39,13 @@
 
 ---
 
+## 🏆 GitHub TrophiesMore actions
+![](https://github-profile-trophy.vercel.app/?username=palak-khan&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=palak-khan&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
 ## 💬 Let's Connect!
 
 - 🌐 [GitHub](https://github.com/palak-khan)  
