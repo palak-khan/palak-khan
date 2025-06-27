@@ -8,21 +8,34 @@
 
 ## 👩‍💻 About Me
 
-🎓 B.Tech AIML | 2nd Year, 4th Semester  
+🎓 B.Tech (AIML) | 2nd Year, 4th Semester  
 💼 Backend Developer Intern – Building scalable Node.js APIs  
 📚 Learning DSA with Python  
-💡 Interested in System Design & Open Source  
-🌱 Always ready to collaborate and grow!
+💡 Passionate about System Design & Open Source  
+🌱 Always open to collaborate and grow!
 
 ---
 
-# 📊 GitHub Stats:
-## 🧠 GitHub Stats + Grade Card
+## 🛠️ Tech Stack
+
+- 💻 Languages: JavaScript, Python  
+- 🧠 Core: Node.js, Express.js, MongoDB, Mongoose  
+- 🌐 Frontend: HTML, CSS, EJS, Bootstrap  
+- 🔧 Tools: Git, GitHub, Postman, VS Code  
+- 🧑‍💻 Currently exploring: TypeScript, Web3, Redis
+
+---
+
+## 📊 GitHub Stats
+
+> ⚠️ *Note: Most contributions are in private repos, so public stats may not reflect full activity.*
 
 ![Palak's GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=palak-khan&theme=github_dark)
-![](https://github-readme-stats.vercel.app/api?username=palak-khan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=palak-khan&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=palak-khan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=palak-khan&theme=tokyonight&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=palak-khan&theme=tokyonight&hide_border=false&layout=compact)
+
+---
 
 ## 🏆 GitHub Trophies
 
@@ -30,16 +43,19 @@
 
 ---
 
-## 🔝 Top Contributed Repositories
+## ✨ Fun Facts
 
-![](https://github-contributor-stats.vercel.app/api?username=palak-khan&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- 🌸 Coding is my creative therapy  
+- 📈 Always optimizing APIs & learning better architecture  
+- ☕ Chai + Code = Peace  
+- 🤝 Love networking with devs & building in public
 
 ---
 
 ## 💬 Let's Connect!
 
-- 🌐 [GitHub](https://github.com/palak-khan)
-- 💼 [LinkedIn](https://www.linkedin.com/in/palak-khan-84516627a/)
+- 🌐 [GitHub](https://github.com/palak-khan)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/palak-khan-84516627a/)  
 - 📫 [palakkhan2002@gmail.com](mailto:palakkhan2002@gmail.com)
 
 ---
