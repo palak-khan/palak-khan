@@ -12,25 +12,27 @@
 💼 Backend Developer Intern – Building scalable Node.js APIs  
 📚 Learning DSA with Python  
 💡 Interested in System Design & Open Source  
-🌱 Always ready to collaborate!
+🌱 Always ready to collaborate and grow!
 
 ---
 
-## 🧠 GitHub Stats + Grade Card
+## 📊 GitHub Stats
 
-![Palak's GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=palak-khan&theme=github_dark)
-
----
-
-## 🔥 GitHub Contribution Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=palak-khan&theme=tokyonight)](https://git.io/streak-stats)
+![](https://github-readme-stats.vercel.app/api?username=palak-khan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=palak-khan&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=palak-khan&theme=tokyonight&hide_border=false&layout=compact)
 
 ---
 
-## 📊 Languages I Use the Most
+## 🏆 GitHub Trophies
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=palak-khan&layout=compact&theme=tokyonight)
+![](https://github-profile-trophy.vercel.app/?username=palak-khan&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+---
+
+## 🔝 Top Contributed Repositories
+
+![](https://github-contributor-stats.vercel.app/api?username=palak-khan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
