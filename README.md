@@ -22,7 +22,9 @@
 
 ![Palak's GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=palak-khan&theme=github_dark)
 <br/>
+<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=palak-khan&theme=tokyonight&hide_border=false)
+<br/>
 <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=palak-khan&theme=tokyonight&hide_border=false&layout=compact)
 
@@ -38,7 +40,7 @@
 
 - 🌸 Coding is my creative therapy  
 - 📈 Always optimizing APIs & learning better architecture  
-- ☕ Chai + Code = Peace  
+- ☕ Cold coffee + crunchy snacks + clean code = my kind of peace ✨ 
 - 🤝 Love networking with devs & building in public
 
 ---
