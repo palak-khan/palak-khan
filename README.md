@@ -16,21 +16,11 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-- 💻 Languages: JavaScript, Python  
-- 🧠 Core: Node.js, Express.js, MongoDB, Mongoose  
-- 🌐 Frontend: HTML, CSS, EJS, Bootstrap  
-- 🔧 Tools: Git, GitHub, Postman, VS Code  
-- 🧑‍💻 Currently exploring: TypeScript, Web3, Redis
-
----
-
 ## 📊 GitHub Stats
 
 > ⚠️ *Note: Most contributions are in private repos, so public stats may not reflect full activity.*
 
-![Palak's GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=palak-khan&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=palak-khan&show_icons=true&theme=radical)
 <br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=palak-khan&theme=tokyonight&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=palak-khan&theme=tokyonight&hide_border=false&layout=compact)
@@ -47,7 +37,7 @@
 
 - 🌸 Coding is my creative therapy  
 - 📈 Always optimizing APIs & learning better architecture  
-- ☕ Chai + Code = Peace  
+- ☕ Cold Coffee + Code = Peace  
 - 🤝 Love networking with devs & building in public
 
 ---
