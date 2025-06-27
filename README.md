@@ -21,8 +21,6 @@
 > ⚠️ *Note: Most contributions are in private repos, so public stats may not reflect full activity.*
 ![Palak's GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=palak-khan&theme=github_dark)
 <br/>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=palak-khan&show_icons=true&theme=radical)
-<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=palak-khan&theme=tokyonight&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=palak-khan&theme=tokyonight&hide_border=false&layout=compact)
 
