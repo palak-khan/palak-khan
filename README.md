@@ -1,6 +1,5 @@
-<imgMore actions
-    src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=I'm%20Anubhav&textBg=false&desc=Maithil&descAlign=65&descAlignY=55&descSize=60&fontAlignY=35"
-    width="100%" />
+![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=I'm%20Palak%20Khan&textBg=false&desc=Backend%20Developer%20%7C%20Tech%20Lover&descAlign=65&descAlignY=55&descSize=60&fontAlignY=35)
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=500&lines=MERN+Stack+Developer+%F0%9F%92%BB;Backend+Engineer+%F0%9F%92%BE;AI+%26+ML+Student+%F0%9F%A4%96;Learning+DSA+with+Python+%F0%9F%90%8D;Love+to+Build+and+Explore+%F0%9F%9A%80" alt="Typing SVG" />
@@ -39,15 +38,8 @@
 - ☕ Cold coffee + crunchy snacks + clean code = my kind of peace ✨  
 - 🤝 Love networking with devs & building in public
 
----
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=palak-khan&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
----
-
-## 🐍 Contribution Snake Animation
+## Watch My Contributions Come to Life!
 
 <img alt="github-snake-dark" src="https://cdn.jsdelivr.net/gh/palak-khan/palak-khan@output/github-contribution-grid-snake-dark.svg" />
 
