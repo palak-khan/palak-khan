@@ -39,8 +39,6 @@
 - 🤝 Love networking with devs & building in public
 
 
-## Watch My Contributions Come to Life!
-
 <p align="center">
 <!--   <img alt="github-snake-dark" src="https://cdn.jsdelivr.net/gh/palak-khan/palak-khan@output/github-contribution-grid-snake-dark.svg" /> -->
   <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/AnubhavMaithil/anubhavmaithil@output/github-contribution-grid-snake-dark.svg" /> 
