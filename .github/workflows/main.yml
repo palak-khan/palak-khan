@@ -22,12 +22,14 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
-          GITHUB_TOKEN: ${{ secrets.SNAKE_TOKEN }}  # 👈 Using your custom token
+          GITHUB_TOKEN: ${{ secrets.SNAKE_TOKEN }}
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
+          repo: palak-khan/palak-khan
+          token: ${{ secrets.SNAKE_TOKEN }}
         env:
-          GITHUB_TOKEN: ${{ secrets.SNAKE_TOKEN }}  # 👈 Using your custom token
+          GITHUB_TOKEN: ${{ secrets.SNAKE_TOKEN }}
