@@ -42,7 +42,9 @@
 
 ## Watch My Contributions Come to Life!
 
-<img alt="github-snake-dark" src="https://cdn.jsdelivr.net/gh/palak-khan/palak-khan@output/github-contribution-grid-snake-dark.svg" />
+<p align="center">
+  <img alt="github-snake-dark" src="https://cdn.jsdelivr.net/gh/palak-khan/palak-khan@output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
