@@ -47,7 +47,7 @@
 
 ## 🐍 Contribution Snake Animation
 
-![Snake animation](https://github.com/palak-khan/palak-khan/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/palak-khan/palak-khan/blob/output/github-contribution-grid-snake.gif)
 
 
 ---
