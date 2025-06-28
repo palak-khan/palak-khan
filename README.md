@@ -9,7 +9,7 @@
 
 ## 👩‍💻 About Me
 
-🎓 B.Tech (AIML) | 2nd Year, 4th Semester  
+🎓 B.Tech (AIML) | 3nd Year, 5th Semester  
 💼 Backend Developer Intern – Building scalable Node.js APIs  
 📚 Learning DSA with Python  
 💡 Passionate about System Design & Open Source  
