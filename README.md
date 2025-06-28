@@ -1,5 +1,6 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=I'm%20Palak%20Khan&textBg=false&desc=Backend%20Developer%20%7C%20Tech%20Lover&descAlign=65&descAlignY=55&descSize=60&fontAlignY=35)
-
+<h1 style="text-align: center;">
+  Hi 👋, Welcome to my profile! I'm <span style="color: #f06292;">Palak Khan</span>
+</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=500&lines=MERN+Stack+Developer+%F0%9F%92%BB;Backend+Engineer+%F0%9F%92%BE;AI+%26+ML+Student+%F0%9F%A4%96;Learning+DSA+with+Python+%F0%9F%90%8D;Love+to+Build+and+Explore+%F0%9F%9A%80" alt="Typing SVG" />
