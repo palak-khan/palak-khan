@@ -45,12 +45,14 @@
 
 ---
 
-## 🐍 Contribution Snake Animation
+### 🐍 GitHub Contribution Snake
 
-![Snake animation](https://github.com/palak-khan/palak-khan/blob/output/github-contribution-grid-snake.svg)
+Light Mode:
+<img alt="github-snake" src="https://cdn.jsdelivr.net/gh/palak-khan/palak-khan@output/github-contribution-grid-snake.svg" />
 
+Dark Mode:
+<img alt="github-snake-dark" src="https://cdn.jsdelivr.net/gh/palak-khan/palak-khan@output/github-contribution-grid-snake-dark.svg" />
 
----
 
 ## 💬 Let's Connect!
 
