@@ -1,6 +1,8 @@
 <img 
   src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:7F7FD5,50:86A8E7,100:91EAE4&text=Welcome%20To%20My%20Profile🙃%0AI'm%20Palak%20Khan&fontSize=40&fontAlignY=40&desc=&descAlignY=70" 
-  width="100%" />
+  width="100%" 
+/>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=500&lines=MERN+Stack+Developer+%F0%9F%92%BB;Backend+Engineer+%F0%9F%92%BE;AI+%26+ML+Student+%F0%9F%A4%96;Learning+DSA+with+Python+%F0%9F%90%8D;Love+to+Build+and+Explore+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
@@ -9,11 +11,21 @@
 
 ## 👩‍💻 About Me
 
-🎓 B.Tech (AIML) | 3nd Year, 5th Semester  
+🎓 B.Tech (AIML) | 3rd Year, 5th Semester  
 💼 Backend Developer Intern – Building scalable Node.js APIs  
 📚 Learning DSA with Python  
 💡 Passionate about System Design & Open Source  
 🌱 Always open to collaborate and grow!
+
+---
+
+## 💬 Let's Connect!
+
+- 🌐 [GitHub](https://github.com/palak-khan)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/palak-khan-84516627a/)  
+- 🔗 [Portfolio](https://palak-khan-2002-portfolio.vercel.app/)  
+- 🔗 [My Resume](https://palak-fullstack-resume.vercel.app/)  
+- 📫 [palakkhan2002@gmail.com](mailto:palakkhan2002@gmail.com)
 
 ---
 
@@ -38,20 +50,9 @@
 - ☕ Cold coffee + crunchy snacks + clean code = my kind of peace ✨  
 - 🤝 Love networking with devs & building in public
 
-
 <p align="center">
-<!--   <img alt="github-snake-dark" src="https://cdn.jsdelivr.net/gh/palak-khan/palak-khan@output/github-contribution-grid-snake-dark.svg" /> -->
-  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/AnubhavMaithil/anubhavmaithil@output/github-contribution-grid-snake-dark.svg" /> 
+  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/AnubhavMaithil/anubhavmaithil@output/github-contribution-grid-snake-dark.svg" />
 </p>
-
----
-
-## 💬 Let's Connect!
-
-- 🌐 [GitHub](https://github.com/palak-khan)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/palak-khan-84516627a/)  
-- 🔗 [Portfolio](https://palak-khan-2002-portfolio.vercel.app/)  
-- 📫 [palakkhan2002@gmail.com](mailto:palakkhan2002@gmail.com)
 
 ---
 
