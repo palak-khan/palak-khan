@@ -22,9 +22,8 @@
 ## 💬 Let's Connect!
 
 - 🌐 [GitHub](https://github.com/palak-khan)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/palak-khan-84516627a/)  
-- 🔗 [Portfolio](https://palak-khan-2002-portfolio.vercel.app/)  
-- 🔗 [My Resume](https://palak-fullstack-resume.vercel.app/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/palak-khan-84516627a/)
+- 🔗 [Portfolio](https://palak-khan-2002-portfolio.vercel.app/)   
 - 📫 [palakkhan2002@gmail.com](mailto:palakkhan2002@gmail.com)
 
 ---
