@@ -26,7 +26,7 @@
   <a href="https://www.linkedin.com/in/palak-khan-84516627a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:palakkhan2002@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=red"/></a>
 <a href="https://palak-khan-2002-portfolio.vercel.app/">
-  <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-028ea0.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-028ea0.svg?&style=for-the-badge&logo=vercel&logoColor=pink"/>
 </a>
 </p>
 
