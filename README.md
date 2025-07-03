@@ -50,12 +50,10 @@
 
 <h2 align="center">✨ Fun Facts</h2>
 
-<ul align="center">
-  <li>🌸 Coding is my creative therapy</li>
-  <li>📈 Always optimizing APIs & learning better architecture</li>
-  <li>☕ Cold coffee + crunchy snacks + clean code = my kind of peace ✨</li>
-  <li>🤝 Love networking with devs & building in public</li>
-</ul>
+<p align="center">🌸 Coding is my creative therapy</p>
+<p align="center">📈 Always optimizing APIs & learning better architecture</p>
+<p align="center">☕ Cold coffee + crunchy snacks + clean code = my kind of peace ✨</p>
+<p align="center">🤝 Love networking with devs & building in public</p>
 
 ---
 
