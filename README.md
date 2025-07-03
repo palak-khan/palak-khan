@@ -3,15 +3,15 @@
   width="100%" 
 />
 
-<p align="center">
+<p 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=500&lines=MERN+Stack+Developer+%F0%9F%92%BB;Backend+Engineer+%F0%9F%92%BE;AI+%26+ML+Student+%F0%9F%A4%96;Learning+DSA+with+Python+%F0%9F%90%8D;Love+to+Build+and+Explore+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
 
-<h2 align="center">👩‍💻 About Me</h2>
+<h2 👩‍💻 About Me</h2>
 
-<p align="center">
+<p 
   <b>🎓 B.Tech (AIML)</b> | 3rd Year, 5th Semester <br>
   <b>💼 Backend Developer Intern</b> – Building scalable Node.js APIs <br>
   <b>📚 Learning DSA</b> with Python <br>
@@ -21,9 +21,9 @@
 
 ---
 
-<h2 align="center">💬 Let's Connect!</h2>
+<h2 💬 Let's Connect!</h2>
 
-<p align="center">
+<p 
   <a href="https://github.com/palak-khan"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/palak-khan-84516627a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://palak-khan-2002-portfolio.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?&style=for-the-badge&logo=vercel&logoColor=white"/></a>
@@ -32,13 +32,13 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 📊 GitHub Stats</h2>
 
-<p align="center">
+<p 
   <i>⚠️ Most contributions are in private repos, so public stats may not reflect full activity.</i>
 </p>
 
-<p align="center">
+<p 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=palak-khan&theme=github_dark" alt="Palak's GitHub Summary"/>
   <br>
   <img src="https://nirzak-streak-stats.vercel.app/?user=palak-khan&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
@@ -48,7 +48,7 @@
 
 ---
 
-<h2 align="center">✨ Fun Facts</h2>
+<h2 ✨ Fun Facts</h2>
 
 <ul>
   <li>🌸 Coding is my creative therapy</li>
@@ -60,13 +60,13 @@
 ---
 
 <!--- SNAKE ANIMATION (GitHub Action output) --->
-<p align="center">
+<p 
 <!--   <img alt="github-snake" src="https://github.com/palak-khan/palak-khan/blob/output/github-contribution-grid-snake.svg"/> -->
 </p>
 
 ---
 
-<p align="center">
+<p 
   ✨ <i>“Keep coding. Keep growing. Never stop learning.”</i> 
 </p>
 
