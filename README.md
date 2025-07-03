@@ -50,7 +50,7 @@
 
 <h2 align="center">✨ Fun Facts</h2>
 
-<ul align="center">
+<ul>
   <li>🌸 Coding is my creative therapy</li>
   <li>📈 Always optimizing APIs & learning better architecture</li>
   <li>☕ Cold coffee + crunchy snacks + clean code = my kind of peace ✨</li>
@@ -61,13 +61,13 @@
 
 <!--- SNAKE ANIMATION (GitHub Action output) --->
 <p align="center">
-  <img alt="github-snake" src="https://github.com/palak-khan/palak-khan/blob/output/github-contribution-grid-snake.svg"/>
+<!--   <img alt="github-snake" src="https://github.com/palak-khan/palak-khan/blob/output/github-contribution-grid-snake.svg"/> -->
 </p>
 
 ---
 
 <p align="center">
-  ✨ <i>“Keep coding. Keep growing. Never stop learning.”</i> 🌱
+  ✨ <i>“Keep coding. Keep growing. Never stop learning.”</i> 
 </p>
 
 ---
