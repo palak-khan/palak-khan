@@ -24,7 +24,7 @@
 <p>
   <a href="https://github.com/palak-khan"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/palak-khan-84516627a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://palak-khan-2002-portfolio.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?&style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://palak-khan-2002-portfolio.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%028EA0.svg?&style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="mailto:palakkhan2002@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
