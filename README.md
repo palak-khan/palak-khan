@@ -36,8 +36,8 @@
 
 > ⚠️ *Note: Most contributions are in private repos, so public stats may not reflect full activity.*
 
-![Palak's GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=palak-khan&theme=github_dark)
-<br/>
+<!-- ![Palak's GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=palak-khan&theme=github_dark)
+<br/> -->
 <br/>
 <img src="https://nirzak-streak-stats.vercel.app/?user=palak-khan&theme=tokyonight&hide_border=false"/>
 <br/>
@@ -54,7 +54,6 @@
 - 🤝 Love networking with devs & building in public
 
 <p align="center">
-<!--   <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/AnubhavMaithil/anubhavmaithil@output/github-contribution-grid-snake-dark.svg" /> -->
 <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/palak-khan/palak-khan@output/github-contribution-grid-snake-dark.svg" />
 </p>
 
