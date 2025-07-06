@@ -41,6 +41,7 @@
 <br/>
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=palak-khan&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="180"/>
+  &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palak-khan&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" height="180"/>
 </p>
 
