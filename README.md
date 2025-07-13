@@ -37,7 +37,7 @@
 > ⚠️ *Note: Most contributions are in private repos, so public stats may not reflect full activity.*
 
 <!-- ![Palak's GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=palak-khan&theme=github_dark)
-<br/> -->
+-->
 <br/>
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=palak-khan&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="180"/>
