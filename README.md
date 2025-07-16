@@ -1,85 +1,87 @@
-<h1 align="center">👋 Hello Everyone! I'm Palak Khan and Welcome to OSSInsight! 👁️</h1>
+<h1 align="center">👋 Hello Everyone! I'm Palak Khan! 🙃</h1>
 
-<div align="center">
-  <a href="https://ossinsight.io">
-    <img src="/web/static/img/screenshots/homepage.gif" height="360">
-  </a>
-</div>
+<img 
+  src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:7F7FD5,50:86A8E7,100:91EAE4&text=Welcome%20To%20My%20Profile🙃%0AI'm%20Palak%20Khan&fontSize=40&fontAlignY=40" 
+  width="100%" 
+/>
 
-<h4 align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=500&lines=MERN+Stack+Developer+%F0%9F%92%BB;Backend+Engineer+%F0%9F%92%BE;AI+%26+ML+Student+%F0%9F%A4%96;Learning+DSA+with+Python+%F0%9F%90%8D;Love+to+Build+and+Explore+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+---
+
+## 👩‍💻 About Me
+
+🎓 B.Tech (AIML) | 3rd Year, 5th Semester  
+💼 Backend Developer Intern – Building scalable Node.js APIs  
+📚 Learning DSA with Python  
+💡 Passionate about System Design & Open Source  
+🌱 Always open to collaborate and grow!
+
+---
+
+## 🌟 My OSSInsight Highlights
+
+<p align="center">
   <b><a href="https://ossinsight.io/explore/">Data Explorer</a></b> •
   <b><a href="https://ossinsight.io/collections/open-source-database">Repo Rankings</a></b> •
-  <b><a href="https://ossinsight.io/analyze/palak-khan">Developer Analytics</a></b> •
+  <b><a href="https://ossinsight.io/analyze/palak-khan">My Developer Analytics</a></b> •
   <a href="https://ossinsight.io/analyze/pingcap/tidb">Repo Analytics</a> •
   <a href="https://ossinsight.io/collections/open-source-database">Collections</a> •
   <a href="https://ossinsight.io/docs/workshop">Workshop</a> •
   <a href="https://ossinsight.io/blog">Blog</a> •
-  <a href="https://ossinsight.io/docs">API</a> •
-  <a href="https://twitter.com/OSSInsight">Twitter</a>
-</h4>
+  <a href="https://ossinsight.io/docs">API</a>
+</p>
 
 ---
 
-## 📌 Introduction
+## ✨ Real-time Open Source Widgets
 
-OSS Insight is a powerful tool that provides comprehensive, valuable, and trending insights into the open source world by analyzing **6+ billion rows of GitHub events data**.
+| Star History | Top Active Contributors |
+| --- | --- |
+| <img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=41986369&image_size=auto"> | <img src="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors/thumbnail.png?repo_id=41986369&image_size=auto"> |
 
-🎦 [Watch Video: OSS Insight – The Easiest New Way to Analyze Open Source Software](https://www.youtube.com/watch?v=6ofDBgXh4So&t=1s)
+> ⚡ Want your own widgets? 👉 [Check out OSSInsight Widgets](https://next.ossinsight.io/widgets?utm_source=github&utm_medium=referral)
 
 ---
 
-## ⚡ Embed Real-time Widget in Your Repo / Personal README.md within 30 seconds!
+<h2>💬 Let's Connect!</h2>
 
-👉 [Explore all widgets here](https://next.ossinsight.io/widgets?utm_source=github&utm_medium=referral)
-
-### Examples
-
-| Repository Activity Trends | Collaborative Productivity – Last 28 days |
-| --- | --- |
-| <img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&image_size=auto"> | <img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=41986369&image_size=auto"> |
-
-| Repository Performance Stats – Last 28 days | Active Contributors – Last 28 days |
-| --- | --- |
-| <img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=41986369&image_size=auto"> | <img src="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=41986369&limit=100&image_size=auto"> |
-
-| Star Geographic Distribution | Star History |
-| --- | --- |
-| <img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map/thumbnail.png?activity=stars&repo_id=41986369&image_size=auto"> | <img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=41986369&image_size=auto"> |
-
-| Company Affiliation | Lines of Code Changes |
-| --- | --- |
-| <img src="https://next.ossinsight.io/widgets/official/analyze-repo-company/thumbnail.png?activity=stars&repo_id=41986369&image_size=auto"> | <img src="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month/thumbnail.png?repo_id=41986369&image_size=auto"> |
-
-| Pull Request Size | Pull Request Lifecycle |
-| --- | --- |
-| <img src="https://next.ossinsight.io/widgets/official/analyze-repo-pull-requests-size-per-month/thumbnail.png?repo_id=41986369&image_size=auto"> | <img src="https://next.ossinsight.io/widgets/official/analyze-repo-pull-request-open-to-merged/thumbnail.png?repo_id=41986369&image_size=auto"> |
-
-| Currently Working On – Last 28 days | Top Active Contributors – Last 28 days |
-| --- | --- |
-| <img src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=12960671&image_size=auto"> | <img src="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors/thumbnail.png?repo_id=41986369&image_size=auto"> |
-
-| Repository Annual Ranking | Find More |
-| --- | --- |
-| <img src="https://next.ossinsight.io/widgets/official/collection-annually-ranking/thumbnail.png?activity=stars&collection_id=2&image_size=auto"> | [Visit our website](https://next.ossinsight.io/widgets?utm_source=github&utm_medium=referral) |
+<p>
+  <a href="https://github.com/palak-khan"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/palak-khan-84516627a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:palakkhan2002@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=red"/></a>
+  <a href="https://palak-khan-2002-portfolio.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-028ea0.svg?&style=for-the-badge&logo=vercel&logoColor=pink"/></a>
+</p>
 
 ---
 
-## 📬 Contact us
+## 📊 GitHub Stats
 
-<a href="https://twitter.com/OSSInsight" target="_blank">
-  <img src="https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-</a>
-<a href="https://github.com/pingcap/ossinsight/discussions" target="_blank">
-  <img src="https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-<a href="mailto:ossinsight@pingcap.com" target="_blank">
-  <img src="https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
+> ⚠️ *Note: Most contributions are in private repos, so public stats may not reflect full activity.*
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=palak-khan&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="180"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palak-khan&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" height="180"/>
+</p>
 
 ---
 
-## 🤝 Sponsors
+## ✨ Fun Facts
 
-<a href="https://en.pingcap.com/tidb-cloud/?utm_source=ossinsight&utm_medium=referral">
-  <img src="/web/static/img/tidb-cloud-logo-w.png" height="50">
-</a>
+- 🌸 Coding is my creative therapy  
+- 📈 Always optimizing APIs & learning better architecture  
+- ☕ Cold coffee + crunchy snacks + clean code = my kind of peace ✨  
+- 🤝 Love networking with devs & building in public
+
+<p align="center">
+<img alt="github-snake" src="https://cdn.jsdelivr.net/gh/palak-khan/palak-khan@output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+<p align="center">
+  ✨ <i>“Keep coding. Keep growing. Never stop learning.”</i> 🌱
+</p>
