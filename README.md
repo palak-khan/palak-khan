@@ -1,8 +1,7 @@
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=wave&height=300&section=header&text=Welcome%20To%20My%20Profile🙃%0AI'm%20Palak%20Khan&fontSize=40&color=0:7F7FD5,50:86A8E7,100:91EAE4" 
-  />
-</p>
+<img 
+  src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:7F7FD5,50:86A8E7,100:91EAE4&text=Welcome%20To%20My%20Profile%0AI'm%20Palak%20Khan&fontSize=40&fontAlignY=40&desc=&descAlignY=70" 
+  width="100%" 
+/>
 
 
 <p align="center">
