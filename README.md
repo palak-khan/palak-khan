@@ -56,6 +56,9 @@
 - 📈 Always optimizing APIs & learning better architecture  
 - ☕ Cold coffee + crunchy snacks + clean code = my kind of peace ✨  
 - 🤝 Love networking with devs & building in public
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=palak-khan&style=for-the-badge&color=0e75b6" alt="Profile views" />
+</p>
 
 <p align="center">
 <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/palak-khan/palak-khan@output/github-contribution-grid-snake-dark.svg" />
