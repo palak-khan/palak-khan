@@ -15,7 +15,7 @@
 
 🎓 B.Tech (AIML) | 3rd Year, 5th Semester  
 💼 Backend Developer Intern – Building scalable Node.js APIs  
-📚 Learning DSA with Python & JavaScript.
+📚 Learning DSA with Python & JavaScript
 💡 Passionate about System Design & Open Source  
 😎 A chill, free-minded dev who loves to build, break, and learn things!  
 🌱 Always open to collaborate, grow – and as a lifelong learner, always exploring something new!
