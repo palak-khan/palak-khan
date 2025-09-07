@@ -3,11 +3,9 @@
   width="100%" 
 />
 
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer+%F0%9F%92%BB;Backend+Engineer+%F0%9F%92%BE;AI+%26+ML+Student+%F0%9F%A4%96;Learning+DSA+with+Python+%F0%9F%90%8D;Love+to+Build+and+Explore+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
-
 
 ---
 
@@ -20,18 +18,58 @@
 😎 A chill, free-minded dev who loves to build, break, and learn things!  
 🌱 Always open to collaborate, grow – and as a lifelong learner, always exploring something new!
 
+---
 
+## 🛠️ Tech Stack & Skills
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,express,react,nextjs,mongodb,postgresql,mysql,docker,tailwind,html,css,git,github,postman,vscode&perline=9" />
+</p>
 
-<h2 a>💬 Let's Connect!</h2>
+### 💻 Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
-<p>
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 🎨 Frontend & Styling
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 🛠️ Tools & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+### 🤖 AI & ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+---
+
+## 💬 Let's Connect!
+
+<p align="center">
   <a href="https://github.com/palak-khan"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/palak-khan-84516627a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:palakkhan2002@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=red"/></a>
-<a href="https://palak-khan-2002-portfolio.vercel.app/">
-  <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-028ea0.svg?&style=for-the-badge&logo=vercel&logoColor=pink"/>
-</a>
+  <a href="mailto:palakkhan2002@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://palak-khan-2002-portfolio.vercel.app/">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-028ea0.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -40,17 +78,22 @@
 
 > ⚠️ *Note: Most contributions are in private repos, so public stats may not reflect full activity.*
 
-<!-- ![Palak's GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=palak-khan&theme=github_dark)
-<br/> -->
 <br/>
+
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=palak-khan&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="180"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palak-khan&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" height="180"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=palak-khan&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" height="180"/>
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=palak-khan&style=for-the-badge&color=0e75b6" alt="Profile views" />
 </p>
+
 ---
 
 ## ✨ Fun Facts
@@ -58,8 +101,9 @@
 - 🌸 Coding is my creative therapy  
 - 📈 Always optimizing APIs & learning better architecture  
 - ☕ Cold coffee + crunchy snacks + clean code = my kind of peace ✨  
-- 🤝 Love networking with devs & building in public
-
+- 🤝 Love networking with devs & building in public  
+- 🎯 Currently diving deep into System Design patterns  
+- 🌙 Night owl who codes best after midnight 🦉
 
 <p align="center">
 <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/palak-khan/palak-khan@output/github-contribution-grid-snake-dark.svg" />
@@ -68,5 +112,9 @@
 ---
 
 <p align="center">
-  ✨ <i>“Keep coding. Keep growing. Never stop learning.”</i> 🌱
-</p> 
+  ✨ <i>"Keep coding. Keep growing. Never stop learning."</i> 🌱
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:7F7FD5,50:86A8E7,100:91EAE4&section=footer" width="100%"/>
+</p>
