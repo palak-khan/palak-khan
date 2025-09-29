@@ -54,14 +54,6 @@
 
 ---
 
-## 🚀 Projects
-
-### [LeetCode 360 Days Challenge](https://github.com/palak-khan/LeetCode360DaysChallenge)
-[![DSA Repo](https://img.shields.io/badge/DSA-LeetCode360DaysChallenge-blue?style=for-the-badge&logo=leetcode&logoColor=orange)](https://github.com/palak-khan/LeetCode360DaysChallenge)  
-📌 Solving 360 DSA problems in JavaScript over 1 year – improving problem-solving & algorithm skills.
-
----
-
 ## 💬 Let's Connect!
 
 <p align="center">
@@ -89,10 +81,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=palak-khan&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=palak-khan&style=for-the-badge&color=0e75b6" alt="Profile views" />
 </p>
 
 ---
