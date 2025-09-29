@@ -53,19 +53,11 @@
 
 ---
 
-## 🚀 Featured Project
+## 📊My LeetCode Journey
 
-<div align="center">
+<div>
 
-### 🌟 [LeetCode 360 Days Challenge](https://github.com/palak-khan/LeetCode360DaysChallenge)
-
-<a href="https://github.com/palak-khan/LeetCode360DaysChallenge">
-  <img src="https://img.shields.io/badge/DSA-LeetCode360-blue?style=for-the-badge&logo=leetcode&logoColor=orange" />
-</a>
-
-> 🏆 **Goal:** Solve 360 DSA problems in 1 year using **JavaScript**  
-> 📈 **Focus:** Data Structures, Algorithms, and Daily Consistency  
-> ⚡ **Outcome:** Stronger problem-solving skills & algorithmic thinking  
+###  [LeetCode 360 Days Challenge](https://github.com/palak-khan/LeetCode360DaysChallenge)
 
 #### 📊 My Current LeetCode Progress
 ![LeetCode Stats](https://leetcard.jacoblin.cool/smiling_dev?theme=dark&font=Baloo%20Tamma%202&ext=heatmap)
