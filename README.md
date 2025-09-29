@@ -13,7 +13,7 @@
 
 🎓 B.Tech (AIML) | 3rd Year, 5th Semester  
 💼 FullStack Developer Intern – at Sheryians Private Limited    
-📚 Learning DSA with JavaScript  
+📚 Learning DSA with JavaScript – check out my [LeetCode 360 Days Challenge](https://github.com/palak-khan/LeetCode360DaysChallenge) repo!  
 💡 Passionate about System Design & Open Source  
 😎 A chill, free-minded dev who loves to build, break, and learn things!  
 🌱 Always open to collaborate, grow – and as a lifelong learner, always exploring something new!
@@ -52,6 +52,13 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
+---
+
+## 🚀 Projects
+
+### [LeetCode 360 Days Challenge](https://github.com/palak-khan/LeetCode360DaysChallenge)
+[![DSA Repo](https://img.shields.io/badge/DSA-LeetCode360DaysChallenge-blue?style=for-the-badge&logo=leetcode&logoColor=orange)](https://github.com/palak-khan/LeetCode360DaysChallenge)  
+📌 Solving 360 DSA problems in JavaScript over 1 year – improving problem-solving & algorithm skills.
 
 ---
 
