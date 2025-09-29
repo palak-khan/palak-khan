@@ -10,13 +10,12 @@
 ---
 
 ## 👩‍💻 About Me
-
-🎓 B.Tech (AIML) | 3rd Year, 5th Semester  
-💼 FullStack Developer Intern – at Sheryians Private Limited    
-📚 Learning DSA with JavaScript – check out my [LeetCode 360 Days Challenge](https://github.com/palak-khan/LeetCode360DaysChallenge) repo!  
-💡 Passionate about System Design & Open Source  
-😎 A chill, free-minded dev who loves to build, break, and learn things!  
-🌱 Always open to collaborate, grow – and as a lifelong learner, always exploring something new!
+- 🎓 **B.Tech (AIML) | 3rd Year, 5th Semester**  
+- 💼 **FullStack Developer Intern** at Sheryians Private Limited  
+- 📚 Learning DSA with JavaScript – [LeetCode 360 Days Challenge](https://github.com/palak-khan/LeetCode360DaysChallenge)  
+- 💡 Passionate about **System Design & Open Source**  
+- 😎 A chill, free-minded dev who loves to build, break, and learn  
+- 🌱 Always open to **collaborate, grow, and explore new technologies**
 
 ---
 
@@ -75,34 +74,24 @@
 
 ---
 
-## 💬 Let's Connect!
+## 💬 Let's Connect
 
 <p align="center">
   <a href="https://github.com/palak-khan"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/palak-khan-84516627a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:palakkhan2002@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://palak-khan-2002-portfolio.vercel.app/">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-028ea0.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
+  <a href="https://palak-khan-2002-portfolio.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-028ea0.svg?&style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-> ⚠️ *Note: Most contributions are in private repos, so public stats may not reflect full activity.*
-
-<br/>
-
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=palak-khan&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="180"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palak-khan&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" height="180"/>
 </p>
-
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=palak-khan&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" height="180"/>
-</p> -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=palak-khan&style=for-the-badge&color=0e75b6" alt="Profile views" />
@@ -111,10 +100,9 @@
 ---
 
 ## ✨ Fun Facts
-
 - 🌸 Coding is my creative therapy  
 - 📈 Always optimizing APIs & learning better architecture  
-- ☕ Cold coffee + crunchy snacks + clean code = my kind of peace ✨  
+- ☕ Cold coffee + crunchy snacks + clean code = my peace  
 - 🤝 Love networking with devs & building in public  
 - 🎯 Currently diving deep into System Design patterns  
 - 🌙 Night owl who codes best after midnight 🦉
