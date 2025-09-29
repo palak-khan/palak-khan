@@ -69,7 +69,7 @@
 > ⚡ **Outcome:** Stronger problem-solving skills & algorithmic thinking  
 
 #### 📊 My Current LeetCode Progress
-![LeetCode Stats](https://leetcard.jacoblin.cool/palak_khan?theme=dark&font=Baloo%20Tamma%202&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/smiling_dev?theme=dark&font=Baloo%20Tamma%202&ext=heatmap)
 
 </div>
 
@@ -100,9 +100,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palak-khan&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" height="180"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=palak-khan&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" height="180"/>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=palak-khan&style=for-the-badge&color=0e75b6" alt="Profile views" />
