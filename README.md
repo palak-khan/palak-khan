@@ -54,6 +54,27 @@
 
 ---
 
+## 🚀 Featured Project
+
+<div align="center">
+
+### 🌟 [LeetCode 360 Days Challenge](https://github.com/palak-khan/LeetCode360DaysChallenge)
+
+<a href="https://github.com/palak-khan/LeetCode360DaysChallenge">
+  <img src="https://img.shields.io/badge/DSA-LeetCode360-blue?style=for-the-badge&logo=leetcode&logoColor=orange" />
+</a>
+
+> 🏆 **Goal:** Solve 360 DSA problems in 1 year using **JavaScript**  
+> 📈 **Focus:** Data Structures, Algorithms, and Daily Consistency  
+> ⚡ **Outcome:** Stronger problem-solving skills & algorithmic thinking  
+
+#### 📊 My Current LeetCode Progress
+![LeetCode Stats](https://leetcard.jacoblin.cool/palak_khan?theme=dark&font=Baloo%20Tamma%202&ext=heatmap)
+
+</div>
+
+---
+
 ## 💬 Let's Connect!
 
 <p align="center">
@@ -81,6 +102,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=palak-khan&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=palak-khan&style=for-the-badge&color=0e75b6" alt="Profile views" />
 </p>
 
 ---
