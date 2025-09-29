@@ -3,9 +3,7 @@
   width="100%" 
 />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer+%F0%9F%92%BB;Backend+Engineer+%F0%9F%92%BE;AI+%26+ML+Student+%F0%9F%A4%96;Learning+DSA+with+Python+%F0%9F%90%8D;Love+to+Build+and+Explore+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer+%F0%9F%92%BB;Backend+Engineer+%F0%9F%92%BE;AI+%26+ML+Student+%F0%9F%A4%96;Learning+DSA+with+Python+%F0%9F%90%8D;Love+to+Build+and+Explore+%F0%9F%9A%80" alt="Typing SVG" />
 
 ---
 
@@ -21,20 +19,16 @@
 
 ## 💬 Let's Connect
 
-<p align="center">
-  <a href="https://github.com/palak-khan"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/palak-khan-84516627a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:palakkhan2002@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://palak-khan-2002-portfolio.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-028ea0.svg?&style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
+<a href="https://github.com/palak-khan"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/palak-khan-84516627a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:palakkhan2002@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://palak-khan-2002-portfolio.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-028ea0.svg?&style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,express,react,nextjs,mongodb,postgresql,mysql,docker,tailwind,html,css,git,github,postman,vscode&perline=9" />
-</p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,express,react,nextjs,mongodb,postgresql,mysql,docker,tailwind,html,css,git,github,postman,vscode&perline=9" />
 
 ### 💻 Languages & Frameworks
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -66,15 +60,14 @@
 
 ## 📊 My Stats
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=palak-khan&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="180"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://leetcard.jacoblin.cool/smiling_dev?theme=dark&font=Baloo%20Tamma%202&ext=heatmap" alt="LeetCode Stats" height="180"/>
-</p>
+### GitHub Streak
+<img src="https://nirzak-streak-stats.vercel.app/?user=palak-khan&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="180"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=palak-khan&style=for-the-badge&color=0e75b6" alt="Profile views" />
-</p>
+### LeetCode Progress
+<img src="https://leetcard.jacoblin.cool/smiling_dev?theme=dark&font=Baloo%20Tamma%202&ext=heatmap" alt="LeetCode Stats" height="180"/>
+
+Profile Views:  
+<img src="https://komarev.com/ghpvc/?username=palak-khan&style=for-the-badge&color=0e75b6" alt="Profile views" />
 
 ---
 
@@ -86,16 +79,10 @@
 - 🎯 Currently diving deep into System Design patterns  
 - 🌙 Night owl who codes best after midnight 🦉
 
-<p align="center">
 <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/palak-khan/palak-khan@output/github-contribution-grid-snake-dark.svg" />
-</p>
 
 ---
 
-<p align="center">
-  ✨ <i>"Keep coding. Keep growing. Never stop learning."</i> 🌱
-</p>
+✨ <i>"Keep coding. Keep growing. Never stop learning."</i> 🌱
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:7F7FD5,50:86A8E7,100:91EAE4&section=footer" width="100%"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:7F7FD5,50:86A8E7,100:91EAE4&section=footer" width="100%"/>
