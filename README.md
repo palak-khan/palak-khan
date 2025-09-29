@@ -19,6 +19,17 @@
 
 ---
 
+## 💬 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/palak-khan"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/palak-khan-84516627a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:palakkhan2002@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://palak-khan-2002-portfolio.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-028ea0.svg?&style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+
+---
+
 ## 🛠️ Tech Stack & Skills
 
 <p align="center">
@@ -53,36 +64,12 @@
 
 ---
 
-## 📊My LeetCode Journey
-
-<div>
-
-###  [LeetCode 360 Days Challenge](https://github.com/palak-khan/LeetCode360DaysChallenge)
-
-#### 📊 My Current LeetCode Progress
-![LeetCode Stats](https://leetcard.jacoblin.cool/smiling_dev?theme=dark&font=Baloo%20Tamma%202&ext=heatmap)
-
-</div>
-
----
-
-## 💬 Let's Connect
-
-<p align="center">
-  <a href="https://github.com/palak-khan"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/palak-khan-84516627a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:palakkhan2002@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://palak-khan-2002-portfolio.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-028ea0.svg?&style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
-
----
-
-## 📊 GitHub Stats
+## 📊 My Stats
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=palak-khan&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="180"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palak-khan&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" height="180"/>
+  <img src="https://leetcard.jacoblin.cool/smiling_dev?theme=dark&font=Baloo%20Tamma%202&ext=heatmap" alt="LeetCode Stats" height="180"/>
 </p>
 
 <p align="center">
