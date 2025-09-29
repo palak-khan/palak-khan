@@ -63,9 +63,6 @@
 ### GitHub Streak
 <img src="https://nirzak-streak-stats.vercel.app/?user=palak-khan&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="180"/>
 
-### LeetCode Progress
-<img src="https://leetcard.jacoblin.cool/smiling_dev?theme=dark&font=Baloo%20Tamma%202&ext=heatmap" alt="LeetCode Stats" height="180"/>
-
 Profile Views:  
 <img src="https://komarev.com/ghpvc/?username=palak-khan&style=for-the-badge&color=0e75b6" alt="Profile views" />
 
