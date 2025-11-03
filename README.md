@@ -1,8 +1,8 @@
-<img 
+<!-- <img 
   src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:7F7FD5,50:86A8E7,100:91EAE4&text=Welcome%20To%20My%20Profile%0AI'm%20Palak%20Khan&fontSize=40&fontAlignY=40&desc=&descAlignY=70" 
   width="100%" 
 />
-// hhh
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer+%F0%9F%92%BB;Backend+Engineer+%F0%9F%92%BE;AI+%26+ML+Student+%F0%9F%A4%96;Learning+DSA+with+JS+%F0%9F%90%8D;Love+to+Build+and+Explore+%F0%9F%9A%80" alt="Typing SVG" />
@@ -85,4 +85,4 @@ Profile Views:
 
 ✨ <i>"Keep coding. Keep growing. Never stop learning."</i> 🌱
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:7F7FD5,50:86A8E7,100:91EAE4&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:7F7FD5,50:86A8E7,100:91EAE4&section=footer" width="100%"/> -->
