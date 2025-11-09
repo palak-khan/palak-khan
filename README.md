@@ -13,8 +13,6 @@
 ## 👩‍💻 About Me
 - 🎓 **B.Tech (AIML) | 3rd Year, 5th Semester**  
 - 💼 **FullStack Developer Intern** at Sheryians Private Limited  
-- 📚 Learning DSA with JavaScript – [LeetCode 360 Days Challenge](https://github.com/palak-khan/LeetCode360DaysChallenge)  
-- 💡 Passionate about **System Design & Open Source**  
 - 😎 A chill, free-minded dev who loves to build, break, and learn  
 - 🌱 Always open to **collaborate, grow, and explore new technologies**
 
