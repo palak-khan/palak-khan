@@ -37,8 +37,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -59,10 +57,6 @@
 
 ---
 
-## 📊 My Stats
-
-### GitHub Streak
-<img src="https://nirzak-streak-stats.vercel.app/?user=palak-khan&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="180"/>
 
 Profile Views:  
 <img src="https://komarev.com/ghpvc/?username=palak-khan&style=for-the-badge&color=0e75b6" alt="Profile views" />
@@ -74,8 +68,7 @@ Profile Views:
 - 📈 Always optimizing APIs & learning better architecture  
 - ☕ Cold coffee + crunchy snacks + clean code = my peace  
 - 🤝 Love networking with devs & building in public  
-- 🎯 Currently diving deep into System Design patterns  
-- 🌙 Night owl who codes best after midnight 🦉
+- ☀️ Early bird who codes best at sunrise 🐤
 
 <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/palak-khan/palak-khan@output/github-contribution-grid-snake-dark.svg" />
 
