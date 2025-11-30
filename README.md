@@ -29,7 +29,7 @@
 
 ## 🛠️ Tech Stack & Skills
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,express,react,nextjs,mongodb,postgresql,mysql,docker,tailwind,html,css,git,github,postman,vscode&perline=9" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,express,mongodb,postgresql,mysql,prisma,docker,tailwind,html,css,git,github,postman,vscode&perline=9" />
 
 ### 💻 Languages & Frameworks
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
