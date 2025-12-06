@@ -57,7 +57,7 @@
 
 ---
 
-<p align="center">
+<p>
   <img src="https://streak-stats.demolab.com?user=palak-khan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
