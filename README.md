@@ -57,6 +57,9 @@
 
 ---
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=palak-khan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 Profile Views:  
 <img src="https://komarev.com/ghpvc/?username=palak-khan&style=for-the-badge&color=0e75b6" alt="Profile views" />
