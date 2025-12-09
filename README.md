@@ -58,7 +58,7 @@
 ---
 
 <p>
-<img src="https://streak-stats.demolab.com?user=palak-khan&theme=tokyonight" alt="Streak Stats" />
+<img src="[https://streak-stats.demolab.com?user=palak-khan&theme=tokyonight"] alt="Streak Stats" />
 </p>
 
 Profile Views:  
