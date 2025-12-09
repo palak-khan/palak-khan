@@ -59,7 +59,7 @@
 ---
 
 <p>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=palak-khan&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="180"/>
+  <img src="[https://nirzak-streak-stats.vercel.app/?user=palak-khan&theme=tokyonight&hide_border=false](https://nirzak-streak-stats.vercel.app/?user=palak-khan&theme=tokyonight&hide_border=false%22)" alt="GitHub Streak" height="180"/>
 </p>
 
 ---
