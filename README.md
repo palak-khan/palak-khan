@@ -58,7 +58,7 @@
 ---
 
 <p>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=palak-khan&theme=tokyonight" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=palak-khan&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="180"/>
 
 </p>
 
