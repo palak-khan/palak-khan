@@ -58,7 +58,7 @@
 ---
 
 <p>
-<img src="https://nirzak-streak-stats.vercel.app/?user=palak-khan&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="180"/>
+
 </p>
 
 Profile Views:  
