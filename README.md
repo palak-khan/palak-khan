@@ -58,7 +58,8 @@
 ---
 
 <p>
-<img src="[https://streak-stats.demolab.com?user=palak-khan&theme=tokyonight"] alt="Streak Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=palak-khan&theme=tokyonight" />
+
 </p>
 
 Profile Views:  
