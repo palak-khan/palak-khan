@@ -17,6 +17,14 @@
 
 ---
 
+## 📄 My Resume
+
+<a href="https://fullstack-resume.vercel.app/" target="_blank">
+  <img alt="Resume" src="https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=mediafire&logoColor=white"/>
+</a>
+
+---
+
 ## 💬 Let's Connect
 
 <a href="https://github.com/palak-khan"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
