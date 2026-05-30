@@ -38,8 +38,7 @@
 ---
 
 ## 🛠️ Tech Stack & Skills
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,express,mongodb,postgresql,mysql,prisma,docker,tailwind,html,css,git,github,postman,vscode&perline=9" />
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,react,nodejs,express,mongodb,postgresql,mysql,prisma,tailwind,docker,git,github,postman,vscode,html,css&perline=9" />
 
 ## ✨ Fun Facts
 - 🌸 Coding is my creative therapy  
