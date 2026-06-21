@@ -10,7 +10,7 @@
 ---
 
 ## 👩‍💻 About Me
-- 🎓 **B.Tech (AIML) | 3rd Year, 5th Semester**  
+- 🎓 **B.Tech (AIML) | 3rd Year, 6th Semester**  
 - 💼 **FullStack Developer Intern** at **Sheryians Private Limited**  
 - 😎 A chill, free-minded dev who loves to **build, break, and learn**  
 - 🌱 Always open to **collaborate, grow, and explore new technologies**
